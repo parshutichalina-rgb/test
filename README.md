@@ -24,3 +24,7 @@ The page supports current versions of Chrome, Firefox, Safari and Edge. Its resp
 - `assets/images/` – image assets supplied with the design
 
 All assignment sections and interactions are implemented.
+
+## Concerns
+
+Button in the hero-block is positioned this way on the page in figma, but I have the concern on the way it looks. It seems like it should have been animated, but no additional details were mentioned in the assignment. 
